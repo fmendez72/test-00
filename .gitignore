@@ -1,0 +1,41 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Quarto
+_site/
+_freeze/
+.quarto/
+
+# Data (track structure, not large files)
+data/*.csv
+data/*.rds
+data/*.parquet
+data/*.xlsx
+data/*.json
+!data/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local

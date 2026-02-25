@@ -1,0 +1,1 @@
+/home/fernando/.ai-config/adapters/antigravity-rules/IDENTITY.md
